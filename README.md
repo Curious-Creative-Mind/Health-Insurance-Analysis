@@ -25,3 +25,5 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ## Executive Summary:
 
 ### Overview of Findings:
+
+The healthcare data covers details of medical expenses and related insurance claims of patients between the time period of May 2019 - May 2024. The total billed amount is 1.42 Billion.
