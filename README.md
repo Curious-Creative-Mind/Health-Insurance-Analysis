@@ -28,6 +28,8 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 The healthcare data covers details of medical expenses and related insurance claims of patients between the time period of May 2019 - May 2024. The total billed amount is $ 1.42 Billion across the span of 5 years with the average billing amount being $ 25.54 K. The total medical claims made were 55.5 K in count. The average hospital stay was 15 days and the average patient age was 51.5 years. There were no factors found that were significantly impacting Insurance bills.
 
+
+
 Below are few observations made based on the the detailed analysis:-
 
 1. Medical bills  of children are higher for most diseases compared to the other age groups for same medical condition. This phenomenon can be attributed to specialized treatment and care needed for children as these are generally life style diseases commonly occuring in senior and elderly age group.
@@ -46,10 +48,58 @@ Below are few observations made based on the the detailed analysis:-
 
 8. For male patients, the highest average claims were made from Blue Cross and Aetna and the least from Cigna.
 
-9. The highest average billing amount by medication in females is for Aspirin and the lowest for Lipitor. In case of males, the highest is for Ibuprofen and the lowest for Aspirin.
+9. The highest average billing amount by medication in females is for Aspirin and the lowest for Lipitor. In case of males, the highest is for Ibuprofen and the lowest for Aspirin. 
 
 10. Maximum Female patients are insuranced from Cigna and least from Aetna. In case of male patients, most have bought insurance from Cigna and the least from Blue Cross.
 
 11. The month of February sees a dip in patient count every year while August sees a spike in patient count almost every year. Further investigation needs to be made to find any reason behind such trend.
 
-12.  
+12. The total distinct patient count was 40.24 K with an average age of 51.5 years.
+
+13. The insurance company has no impact on the average hospital stay.
+
+14. There seems to be no significant relationship between particular blood group and any chronic disease.
+
+15. Elderly population make up the highest patient count (15 K) while children make up the least count (888).
+
+16. In case of children, there is high risk of cancer in O(-ve) blood group, obesity in A(+ve) blood group and hypertension in B(-ve) blood group.
+
+## Recommendations:
+
+Based on the uncovered insights, the following recommendations have been provided :
+
+- For Insurance Buyers :
+
+1. Buying insurance for children having chronic diseases can be beneficial in long term and help in managing medical expenses.
+2. Most of the patients belong to the Elderly Age Group as these chronic diseases are common in old age so having medical insurance would be helpful to reduce the burden of medical expenses for senior and elderly population.
+
+- For Insurance Companies :
+
+1. Can design custom Insurance plans specially for children covering long hospital stays, diagnostics and medical checkups.
+2. Adjust age stratified premium pricing models to increase coverage proportion for children.
+3. Provide preventive health programs and offer discounts and rewards for wellness program participation and regular health checkups.
+4. Partner with pedriatric hospitals and clinics and negotiate pre-packaged pricing for frequent treatments.
+5. Having the Insurance buyer go through a basic medical checkup/diagnosis for common chronic diseases to screen out and propose premium plans accordingly.
+6. This would create transparency and build trust.
+
+### Data Source:
+
+- Kaggle 
+
+### Tools used:
+
+- **Python** - scripting for data ingestion in database
+- **SQL** - extracting relevant table from database
+- **Python-(NumPy, Pandas)** – for Data Cleaning, Data Transformation and EDA
+- **Python-(Matplotlib, Seaborn)** – for Data Visualization and Data Analysis
+- **Power BI** - dashboard creation
+
+### Skills applied and learned:
+
+- SQL 
+- Python (Scripting, Numpy, Pandas, Matplotlib, Seaborn)
+- Data Analysis and insights generation
+- Power BI - Dashboard creation
+- Data Storytelling
+- Project Documentation
+
