@@ -32,7 +32,7 @@ The healthcare data covers details of medical expenses and related insurance cla
 
 ![Dashboard Pg2](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/Dashboard%20Pg-2.PNG?raw=true)
 
-Below are few observations made based on the the detailed analysis:-
+Below are few observations made based on the detailed analysis:-
 
 1. Medical bills  of children are higher for most diseases compared to the other age groups for same medical condition. This phenomenon can be attributed to specialized treatment and care needed for children as these are generally life style diseases commonly occuring in senior and elderly age group.
 
