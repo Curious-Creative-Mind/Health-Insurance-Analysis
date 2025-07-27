@@ -36,6 +36,8 @@ Below are few observations made based on the the detailed analysis:-
 
 1. Medical bills  of children are higher for most diseases compared to the other age groups for same medical condition. This phenomenon can be attributed to specialized treatment and care needed for children as these are generally life style diseases commonly occuring in senior and elderly age group.
 
+![Bill_agewise](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/bill_medicalcon_agewise.png?raw=true)
+
 2. The Average Billing Amount reduces with increase in Length of Stay in hospital.
 
 3. The highest average bills claimed were from Medicare ($ 25,615) while the lowest average bills were claimed from UnitedHealthcare ($ 25,389). There's not much difference in the amount.
@@ -45,6 +47,8 @@ Below are few observations made based on the the detailed analysis:-
 5. The average billed amount of all chronic conditions are almost same with almost uniform age wise distribution.
 
 6. There is no impact of admission type (Urgent/Emergency/Elective) on the average billed amount for similar medical conditions.
+
+![Bill_admissiontype](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/bill_admissiontype_medconwise.png?raw=true)
 
 7. The Elderly population contributes maximum to the claimed insurance amount ($ 0.4 bn) as well as they comprise the highest chunk of total patient count (29%).
 
