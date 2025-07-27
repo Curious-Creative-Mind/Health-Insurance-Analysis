@@ -28,7 +28,9 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 The healthcare data covers details of medical expenses and related insurance claims of patients between the time period of May 2019 - May 2024. The total billed amount is $ 1.42 Billion across the span of 5 years with the average billing amount being $ 25.54 K. The total medical claims made were 55.5 K in count. The average hospital stay was 15 days and the average patient age was 51.5 years. There were no factors found that were significantly impacting Insurance bills.
 
+![Dashboard Pg1](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/Dashboard%20Pg-1.PNG?raw=true)
 
+![Dashboard Pg2](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/Dashboard%20Pg-2.PNG?raw=true)
 
 Below are few observations made based on the the detailed analysis:-
 
