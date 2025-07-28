@@ -85,8 +85,7 @@ Based on the uncovered insights, the following recommendations have been provide
 2. Adjust age stratified premium pricing models to increase coverage proportion for children.
 3. Provide preventive health programs and offer discounts and rewards for wellness program participation and regular health checkups.
 4. Partner with pedriatric hospitals and clinics and negotiate pre-packaged pricing for frequent treatments.
-5. Having the Insurance buyer go through a basic medical checkup/diagnosis for common chronic diseases to screen out and propose premium plans accordingly.
-6. This would create transparency and build trust.
+5. Having the Insurance buyer go through a basic medical checkup/diagnosis for common chronic diseases to screen out and propose premium plans accordingly. This would create transparency and build trust.
 
 ### Data Source:
 
@@ -108,4 +107,5 @@ Based on the uncovered insights, the following recommendations have been provide
 - Power BI - Dashboard creation
 - Data Storytelling
 - Project Documentation
+- AI (Copilot and ChatGPT) 
 
