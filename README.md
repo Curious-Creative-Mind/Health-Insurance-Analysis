@@ -56,7 +56,7 @@ Below are few observations made based on the detailed analysis:-
 
 9. The highest average billing amount by medication in females is for Aspirin and the lowest for Lipitor. In case of males, the highest is for Ibuprofen and the lowest for Aspirin. 
 
-10. Maximum Female patients are insuranced from Cigna and least from Aetna. In case of male patients, most have bought insurance from Cigna and the least from Blue Cross.
+10. Maximum Female patients are insured from Cigna and least from Aetna. In case of male patients, most have bought insurance from Cigna and the least from Blue Cross.
 
 11. The month of February sees a dip in patient count every year while August sees a spike in patient count almost every year. Further investigation needs to be made to find any reason behind such trend.
 
