@@ -70,6 +70,12 @@ Below are few observations made based on the detailed analysis:-
 
 16. In case of children, there is high risk of cancer in O(-ve) blood group, obesity in A(+ve) blood group and hypertension in B(-ve) blood group.
 
+![Child_cancer](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/Child-cancer.JPG?raw=true)   
+
+![Child_obesity](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/child-obesity.JPG?raw=true)
+
+![Child_hypertension](https://github.com/Curious-Creative-Mind/Health-Insurance-Analysis/blob/main/child-hypertension.JPG?raw=true)
+
 ## Recommendations:
 
 Based on the uncovered insights, the following recommendations have been provided :
